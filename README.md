@@ -1,4 +1,4 @@
-# newink-codingagents
+# codingagents
 
 Claude Code plugins by newink for coding agents.
 
@@ -12,8 +12,8 @@ Play sounds when Claude Code needs your attention.
 
 ```bash
 # Add this marketplace
-/plugin marketplace add newink/newink-codingagents
+/plugin marketplace add newink/codingagents
 
 # Install a plugin
-/plugin install claudecode-sounds@newink-codingagents
+/plugin install claudecode-sounds@codingagents
 ```
