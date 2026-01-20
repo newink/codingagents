@@ -11,8 +11,8 @@
     {
       "name": "claudecode-sounds",
       "source": {
-        "source": "github",
-        "repo": "newink/claudecode-sounds"
+        "source": "url",
+        "url": "https://github.com/newink/claudecode-sounds.git"
       },
       "description": "Play sounds when Claude Code needs your attention",
       "version": "1.4.3",
