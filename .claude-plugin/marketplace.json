@@ -15,7 +15,7 @@
         "repo": "newink/claudecode-sounds"
       },
       "description": "Play sounds when Claude Code needs your attention",
-      "version": "1.2.1",
+      "version": "1.3.0",
       "keywords": ["sounds", "notifications", "audio", "warcraft"]
     }
   ]
